@@ -20,7 +20,7 @@ JavaScript: Interactive features and dynamic animations
 GitHub Pages: Free hosting and deployment
 
 🚀 Live Demo
-Visit the live website: https://aritra-mukhopadhyay1010.github.io/repository-name
+Visit the live website: https://aritra-mukhopadhyay1010.github.io/my-first-project
 
 
 📱 Sections
